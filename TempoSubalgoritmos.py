@@ -1,5 +1,4 @@
-# Versão do algoritmo BuscarSolitario.py feita para mostrar os tempos de execução de cada subalgoritmo 
-
+# Versão do algoritmo BuscarSolitario.py feita para mostrar os tempos de execução de cada subalgoritmo
 import time
 
 def buscarSolitario(vetor, inicio, fim):
